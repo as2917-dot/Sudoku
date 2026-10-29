@@ -4,3 +4,6 @@ This code runs in O(N) time complexity per cell rather than trying to test valid
 Only 9 clues are used with the numbers 1-9 scattered throughout the entire 9X9 board, so it is trivially always valid. This approach largely removes traditional backtracking algorithms with exponential time complexities.
 
 Note: There may be multiple solutions to any given clue configuration due to a very small number of clues.
+![Alt Text](Screenshot 2026-09-12 134011.png)
+![Alt Text](Screenshot 2026-09-12 223318.png)
+![Alt Text](Screenshot 2026-09-18 233935.png)
