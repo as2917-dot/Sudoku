@@ -7,5 +7,7 @@ Note: There may be multiple solutions to any given clue configuration due to a v
 
 
 ![Screenshot 1](https://github.com/as2917-dot/Sudoku/blob/main/Screenshot%202026-09-12%20134011.png)
+
 ![Screenshot 2](https://github.com/as2917-dot/Sudoku/blob/main/Screenshot%202026-09-12%20223318.png)
+
 ![Screenshot 3](https://github.com/as2917-dot/Sudoku/blob/main/Screenshot%202026-09-18%20233935.png)
