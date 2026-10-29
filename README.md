@@ -5,5 +5,5 @@ Only 9 clues are used with the numbers 1-9 scattered throughout the entire 9X9 b
 
 Note: There may be multiple solutions to any given clue configuration due to a very small number of clues.
 ![Screenshot 1](https://github.com/as2917-dot/Sudoku/blob/main/Screenshot%202026-09-12%20134011.png)
-![Screenshot 2](Screenshot 2026-09-12 223318.png)
+![Screenshot 2](https://github.com/as2917-dot/Sudoku/blob/main/Screenshot%202026-09-12%20223318.png)
 ![Screenshot 3](Screenshot 2026-09-18 233935.png)
